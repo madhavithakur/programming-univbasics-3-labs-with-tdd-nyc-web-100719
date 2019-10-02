@@ -1,3 +1,3 @@
 # Add your variables here
 first_number = 10
-econd_number = 9
+second_number = 9
